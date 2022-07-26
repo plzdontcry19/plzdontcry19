@@ -1,13 +1,7 @@
 # Hi I'm Naraphat Sanujit, Welcome to my Github profile 👋 
 
 
-:musical_note: สวัสดีครับ ผม นรภัทร สานุจิตร หรือ แหนม นักศึกษาจบใหม่จากบางมด สาขาวิชาเทคโนโลยีเดีย :trollface:  <br>
-ชื่นชอบในการเรียนรู้เทคโนโลยีใหม่ ๆ :computer: <br>
-🌱 I’m currently learning IOT technology. <br>
-	 :loudspeaker:บางโปรเจ็คที่เขียนใน resume อาจจะไม่มีในนี้เพราะโค้ดหายไปแล้วครับ ขออภัยด้วยครับ :sob: <br>
-	 :loudspeaker:ใน resume เป็นตัวอย่างโปรเจ็คที่เคยทำ <br>
-งานอดิเรก เล่นดนตรี netflix เล่นเกมส์ ฟังเพลง  :japanese_goblin: <br>
-
+I'm a Back-End Developer with a degree in Media Technology from KMUTT that combined Technology Human behavior and Art together to focus on creating innovations that meet human demands. I have knowledge in developing RESTful Web Service by doing full time job and also have a NFT project to develop with colleagues. I have experience about Typescript, Node.js, NestJs, Java (OSGi framework), MongoDB, MySQL, JSON,Node-RED and the OOP concept is also used in development. I enjoy learning new skills and constantly improving myself to be better than yesterday. Currently, I have an interest in Blockchain, GamFi and IoT. I would like to study and gain new experience in abroad.
 
 ![alt text](https://i.ibb.co/PZK3rc3/23317.jpg "Logo Title Text 1")
 
