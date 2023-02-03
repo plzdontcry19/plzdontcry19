@@ -5,13 +5,6 @@ I'm a Back-End Developer with a degree in Media Technology from KMUTT that combi
 
 ![alt text](https://i.ibb.co/PZK3rc3/23317.jpg "Logo Title Text 1")
 
- 📫 How to reach me: ...
- 
- [Facebook](https://www.facebook.com/Naemnaraphat19)
- [Linkin] (https://www.linkedin.com/in/naraphat-sanujit-a30686224)
- 
-
-
 
 <!--
 **plzdontcry19/plzdontcry19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
