@@ -1,7 +1,7 @@
 # Hi I'm Naraphat Sanujit, Welcome to my Github profile 👋 
 
 
-I have 2 years 6 months of working experience in RESTful Web Service development using TypeScript, NodeJs, NestJs, Spring Boot, PostgreSQL MongoDB, Docker, Terraform, Bash script, Amazon Web Services, Git, Testing and I also understand the concept of OOP, AOP, Data structure, Design Pattern Agile, SOLID Principles, TDD.
+I have working experience in RESTful and Messaging development using TypeScript, NodeJs, ExpressJs, NestJs, Spring Boot, PostgreSQL MongoDB, Docker, Terraform, Bash script, Amazon Web Services, Git, Testing and I also understand the concept of OOP, AOP, Data structure, Design Pattern, Agile methodology, SOLID Principles and TDD.
 
 
 
